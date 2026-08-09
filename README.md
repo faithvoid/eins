@@ -23,6 +23,8 @@ Finally, (an) Uno (style game) for the oldest Xbox known to man.
 - [ ] Modify renderer code to support 640x480 and 1280x720 instead of just 640x480 (not sure if it's possible in NXDK without a seperate executable)
 - [ ] Move player/bot usernames above their avatars
 - [ ] Implement simple keyboard chat(?)
+- [ ] Xbox Video Camera support(?) - unlikely, but would be fun!
+- [ ] Figure out hardware acceleration issues
 - [ ] Actually settle on an aesthetic that's not just a hodgepodge of assets and shapes.
 
 Any and all code contributions to the project are greatly appreciated!
