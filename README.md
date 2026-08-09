@@ -2,6 +2,7 @@
 Finally, (an) Uno (style game) for the oldest Xbox known to man.
 
 ![](screenshots/1.jpg)
+<p align="center">An example of a 3-player solo match against bots.</p>
 
 # Installation
 - Download the latest release .zip
