@@ -1,2 +1,2 @@
 # Eins!
-An "UNO" clone in SDL2 and C++
+Finally, Uno for the oldest Xbox known to man.
