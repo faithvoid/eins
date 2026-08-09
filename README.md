@@ -19,6 +19,7 @@ Finally, (an) Uno (style game) for the oldest Xbox known to man.
 - [ ] Add non-standard Uno-style rules
 - [ ] Add player / round time limits and time counters
 - [ ] PSP port?
+- [ ] Windows + Linux builds (+ cross-play)
 - [ ] Add ability to fetch user avatars from xb.live gamertags(?), or set up an offline avatar system.
 - [ ] Modify renderer code to support 640x480 and 1280x720 instead of just 640x480 (not sure if it's possible in NXDK without a seperate executable)
 - [ ] Move player/bot usernames above their avatars
