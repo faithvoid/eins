@@ -23,3 +23,5 @@ Finally, (an) Uno (style game) for the oldest Xbox known to man.
 - [ ] Move player/bot usernames above their avatars
 - [ ] Implement simple keyboard chat(?)
 - [ ] Actually settle on an aesthetic that's not just a hodgepodge of assets and shapes.
+
+Any and all code contributions to the project are greatly appreciated!
