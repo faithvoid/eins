@@ -1,6 +1,8 @@
 # Eins!
 Finally, (an) Uno (style game) for the oldest Xbox known to man.
 
+![](screenshots/1.jpg)
+
 # Installation
 - Download the latest release .zip
 - Extract it and copy the contents to your Xbox's preferred homebrew folder
