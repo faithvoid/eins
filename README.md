@@ -16,6 +16,7 @@ Later Eineko builds past 1.0 may come with additional game modes such as "Go Fis
 
 # Roadmap
 - [ ] Fix giant laundry list of menu issues (local multiplayer menu is completely broken, the rest of the menus also need polish)
+- [ ] Decouple Eineko-specific game logic from Eins engine for flexibility as a general card game engine
 - [ ] Fix bluff and Eineko! ("Uno") functions
 - [ ] Add taunts once multiplayer is further along (accessed via right analog stick up/down/left/right)
 - [ ] Add avatar selection, username input, and voice style selection to profile.cfg
