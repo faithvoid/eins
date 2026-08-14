@@ -2,7 +2,7 @@
 Finally, (an) Uno (style game) for the oldest Xbox known to man.
 
 ![](screenshots/1.jpg)
-<i><p align="center">An example of a 4-player solo match against bots.</p></i>
+<i><p align="center">An example of a 4-player solo Eineko! (OneCat!) match against bots.</p></i>
 
 # Installation
 - Download the latest release .zip
