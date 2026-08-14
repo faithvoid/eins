@@ -12,7 +12,10 @@ Finally, (an) Uno (style game) for the oldest Xbox known to man.
 # Engine
 The "Eins" engine powering Eineko is designed to be an all-in-one card game engine for the original Xbox, written in C and SDL3. 
 The intended gameplay mode on release is "Eineko", an Uno-style gamemode, but the underlying engine code can be adapted to any 2-4 player card game, you'll just need to modify AI, deck and game logic for your specific card game.
-Later Eineko builds past 1.0 may come with additional game modes such as "Go Fish", "Cards against Catgirls", and other simple standard card deck gamemodes.
+Later Eineko builds past 1.0 may come with additional game modes such as:
+- [ ] Go Fish
+- [ ] Poker
+- [ ] Cards against Catgirls (Cards against Humanity clone)
 
 # Roadmap
 - [ ] Fix giant laundry list of menu issues (local multiplayer menu is completely broken, the rest of the menus also need polish)
